@@ -1,0 +1,10 @@
+{
+  "name": "vat-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "author": "Florian Eyzat",
+  "dependencies": {
+    "vat-number-finder": "file:./lib"
+  }
+}

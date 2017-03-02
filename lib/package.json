@@ -1,0 +1,12 @@
+{
+  "name": "vat-number-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Florian Eyzat",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "pdf-text-extract": "^1.4.1",
+    "validate-vat": "^0.4.0"
+  }
+}
